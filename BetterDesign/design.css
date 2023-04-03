@@ -1,0 +1,26 @@
+#html{
+    background-color: blue;
+    height: 50vh;
+    width: 80%;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    padding: 20px;
+    /* flex-direction: column; */
+
+}
+
+
+#font{
+
+
+
+}
+
+.dbtn{
+
+padding: 10px;
+background-color: aqua;
+border: none;
+
+}
